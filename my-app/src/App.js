@@ -4,9 +4,7 @@ import Home from './Pages/Home';
 import AboutUs from './Pages/AboutUs';
 import Contact from './Pages/Contact';
 function App() {
-  const a = () => {
-
-  }
+ 
   return (
 
     <div className="container">
